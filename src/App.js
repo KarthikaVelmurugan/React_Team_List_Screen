@@ -1,23 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
+import MainList from "./Main/MainList";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="bg-gray-700 h-screen flex items-center justify-center">
+      <div className="bg-blue-50 w-10/12 overflow-hidden rounded-xl shadow-sm shadow-slate-50">
+        <MainList></MainList>
+      </div>
     </div>
   );
 }

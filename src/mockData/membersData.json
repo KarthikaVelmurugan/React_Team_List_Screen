@@ -1,0 +1,65 @@
+ {"data":
+     [
+    {
+        "firstName":"Olivia",
+        "lastName":"Rhye",
+        "handler":"@olivia",
+        "isSelect":0,
+        "status":1,
+        "role":"Product Designer",
+        "email":"olivia@untitledui.com"
+        
+    },
+    {
+        "firstName":"Phoneix",
+        "lastName":"Baker",
+        "handler":"@phoneix",
+        "isSelect":0,
+        "status":1,
+        "role":"Product Manager",
+        "email":"phoneix@untitledui.com"
+        
+    },
+    {
+        "firstName":"Lana",
+        "lastName":"Stenier",
+        "handler":"@lana",
+        "isSelect":0,
+        "status":0,
+        "role":"Frontend Developer",
+        "email":"lana@untitledui.com"
+        
+    },
+    {
+        "firstName":"Demi",
+        "lastName":"Wilkinson",
+        "handler":"@demi",
+        "isSelect":0,
+        "status":0,
+        "role":"Backend Develpper",
+        "email":"demi@untitledui.com"
+        
+    },
+    {
+        "firstName":"Candice",
+        "lastName":"Wu",
+        "handler":"@candice",
+        "isSelect":0,
+        "status":1,
+        "role":"FullStack Developer",
+        "email":"candice@untitledui.com"
+        
+    },
+    {
+        "firstName":"Candice",
+        "lastName":"Wu",
+        "handler":"@candice",
+        "isSelect":0,
+        "status":1,
+        "role":"FullStack Developer",
+        "email":"candice@untitledui.com"
+        
+    }
+ 
+]
+ }
