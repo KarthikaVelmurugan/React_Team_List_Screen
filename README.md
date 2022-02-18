@@ -1,3 +1,14 @@
+# React Team Listing screen page
+![Screenshot from 2022-02-18 16-07-17](https://user-images.githubusercontent.com/64409033/154667071-22a804d3-f59a-41f1-9947-3bd8b874780d.png)
+
+# Functionalities
+1. Status filter
+2. Select box choose
+3. Hover icon
+4. Delete icon
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
